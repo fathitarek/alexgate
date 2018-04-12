@@ -1,0 +1,122 @@
+<?php
+
+return [
+
+    'welcome_to_our_dear_visitor'   => 'Welcome to our dear visitor',
+    'unit_types' => 'Unit Types',
+    'select' => 'Select ',
+    'country' => 'Country',
+    'city' => 'City',
+    'advanced_search' => 'Advanced Search',
+    'keyword' => 'Keyword',
+    'min_price' => 'Min Price',
+    'enter' => 'Enter ',
+    'bedrooms' => 'Bedrooms',
+    'bathrooms' => 'Bathrooms',
+    'property_size' => 'Property Size',
+    'load_more' => 'Load More',
+    'building' => 'building',
+    'buildings' => 'buildings',
+    'rooms' => 'rooms',
+    'baths' => 'baths',
+    'sq_ft' => 'sq.ft',
+    'what_are_you_looking_for' => 'what are you looking for?',
+    'new_listing_by_region' => 'new listing by region',
+    'view_all_region' => 'view all region',
+    'happy_clients' => '2000 + Happy Clients',
+    'start_from' => 'start from',
+    'details' => 'details',
+    'all' => 'All ',
+    'locations' => 'Locations',
+    'location' => 'Location',
+    'square_feet_fe' => 'Square Feet (Ft<sup>2</sup>)',
+    'more_filter' => 'More Filter',
+    'year_built' => 'Year Built',
+    'no_min' => 'No Min',
+    'no_max' => 'No Max',
+    'results' => 'Results',
+    'of' => 'Of',
+    'items_found' => 'Items Found',
+    'clear_filter' => 'Clear Filter',
+    'clear_all' => 'Clear All',
+    'home' => 'Home',
+    'projects' => 'Projects',
+    'units'=>'Units',
+    'about'=>'About',
+    'contact_us'=>'Contact Us',
+    'sign_in'=>'Sign In',
+    'select_language'=>'Select Language',
+    'Join'=>'Join',
+    'blog'=>'Blog',
+    'for_sale'=>'For Sale',
+    'propertyforsale'=>'Property For Sale',
+        'location'=>'Location',
+        'bathrooms'=>'Bathrooms',
+'villa'=>'Villa',
+
+
+
+'pages'=>'Pages',
+    'msg_contact'=>'You can contact us by a call, a message or visit us',
+'from'=>'From',
+'monday'=>'Monday',
+'to'=>'to',
+'friday'=>'Friday, 8:00 am - 6:00 pm',
+'send'=>'Send Us a Message',
+'name'=>'Name',
+'email'=>'Email',
+'phone_number'=>'Phone number',
+'comment'=>'Comment',
+'send_msg'=>'Send Message',
+'subscribe'=>'Subscribe',
+'Newsletter'=>'Newsletter',
+'sign_up_newsLetter'=>'Sign up for our newsletter to get up-to-date from us',
+'contact_caption'=>'Send us your question or feedbacks about our services or your plan, our consultant will solve the trouble. We look forward to serving your ideas!',
+
+'rent'=>'For Rent',
+'owner'=>'For Sale',
+'sort_by'=>'Sort_by',
+'sort_by'=>'Sort_by',
+
+'sort_by'=>'Sort_by',
+
+'results'=>'results',
+
+'resultsfrom'=>'1-9 of 25 results',
+
+
+'default'=>'default',
+'lowhigh'=>'Price (Low to High)',
+'highlow'=>'Price (High to Low)',
+
+'for_sale'=>'For sale',
+'luxury_house'=>'Luxury House',
+'similar_homes'=>'Similar Homes',
+'property_description'=>'Property Description',
+'property_details'=>'Property Details',
+'property_features'=>'Property Features',
+'prices'=>'Prices',
+'size'=>'Size',
+'distance'=>'Distance',
+'type'=>'Type',
+'floor_plans'=>'Floor Plans',
+'near_by'=>'Near By',
+
+'all'=>'all',
+'locations'=>'Locations',
+
+'search'=>'Search',
+'blogdesc'=>'Keep up to date with the latest news',
+
+
+'projectdesc'=>'Project Description',
+'projectfeat'=>'Project Features',
+'projectpayment'=>'Payment Methods',
+'projectlocation'=>'project Location',
+
+'booknow'=>'Book Now',
+
+'call'=>'Call Now',
+
+
+];

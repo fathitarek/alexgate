@@ -1,0 +1,1281 @@
+11:32:17 AM: *******************************************11/06/2016 11:32:17 AM
+11:32:17 AM: Version: 3.30
+11:32:17 AM: Name=Dsathemes
+11:32:17 AM: URL=http://dsathemes.com/html/kolo/normal_register_form/index.html
+11:32:17 AM: Folder=e:\kheprat-work\elra2ed\lp\2\
+11:32:17 AM: 
+11:32:17 AM: Action=Strip
+11:32:17 AM: FileTypes=
+11:32:17 AM: Text, 
+11:32:17 AM: Graphics, 
+11:32:17 AM: Multimedia, 
+11:32:17 AM: Others, 
+11:32:17 AM: 
+11:32:17 AM: MaxFileSize=-100
+11:32:17 AM: PrimaryOnlySubs=True
+11:32:17 AM: PrimaryDepth=-1
+11:32:17 AM: SertverDepth=-1
+11:32:17 AM: OtherDepth=-1
+11:32:17 AM: RootFile=
+11:32:17 AM: InitialiseData
+11:32:17 AM: InitialseFileList
+11:32:17 AM: Strip
+11:32:17 AM: Initialise message: Downloading
+11:32:17 AM: Downloading: 0 http://dsathemes.com/html/kolo/normal_register_form/index.html
+11:32:17 AM: Count: 6  ToDo: 6
+11:32:17 AM: Downloading: 1 http://dsathemes.com/html/kolo/normal_register_form/index/favicon.ico
+11:32:17 AM: Count: 6  ToDo: 6
+11:32:17 AM: Downloading: 2 http://dsathemes.com/html/kolo/normal_register_form/favicon.ico
+11:32:17 AM: Count: 6  ToDo: 6
+11:32:17 AM: Downloading: 3 http://dsathemes.com/html/kolo/favicon.ico
+11:32:17 AM: Count: 6  ToDo: 6
+11:32:17 AM: Downloading: 4 http://dsathemes.com/html/favicon.ico
+11:32:17 AM: Count: 6  ToDo: 6
+11:32:18 AM: Done: 3 http://dsathemes.com/html/kolo/favicon.ico Failed
+11:32:18 AM: : Fail http://dsathemes.com/html/kolo/favicon.ico
+11:32:18 AM: 404: Not Found
+11:32:18 AM: LastError: 0 No Error
+11:32:18 AM: Done: 4 http://dsathemes.com/html/favicon.ico Failed
+11:32:18 AM: : Fail http://dsathemes.com/html/favicon.ico
+11:32:18 AM: 404: Not Found
+11:32:18 AM: LastError: 0 No Error
+11:32:18 AM: Done: 2 http://dsathemes.com/html/kolo/normal_register_form/favicon.ico Failed
+11:32:18 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/favicon.ico
+11:32:18 AM: 404: Not Found
+11:32:18 AM: LastError: 0 No Error
+11:32:18 AM: Done: 1 http://dsathemes.com/html/kolo/normal_register_form/index/favicon.ico Failed
+11:32:18 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/index/favicon.ico
+11:32:18 AM: 404: Not Found
+11:32:18 AM: LastError: 0 No Error
+11:32:18 AM: Downloading: 5 http://dsathemes.com/favicon.ico
+11:32:18 AM: Count: 6  ToDo: 2
+11:32:18 AM: Done: 5 http://dsathemes.com/favicon.ico Failed
+11:32:18 AM: : Fail http://dsathemes.com/favicon.ico
+11:32:18 AM: 404: Not Found
+11:32:18 AM: LastError: 0 No Error
+11:32:19 AM: Done: 0 http://dsathemes.com/html/kolo/normal_register_form/index.html Success
+11:32:19 AM: Count: 7
+11:32:19 AM: HTML: 1
+11:32:19 AM: Count: 7
+11:32:19 AM: HTML: 2
+11:32:19 AM: Count: 7
+11:32:19 AM: HTML: 3
+11:32:19 AM: Count: 7
+11:32:19 AM: HTML: 4
+11:32:19 AM: Count: 7
+11:32:19 AM: HTML: 5
+11:32:19 AM: Count: 7
+11:32:19 AM: HTML: 6
+11:32:19 AM: Downloading: 6 http://dsathemes.com/html/kolo/normal_register_form/css/bootstrap.css
+11:32:19 AM: Count: 7  ToDo: 1
+11:32:19 AM: Downloading: 7 http://dsathemes.com/html/kolo/normal_register_form/css/font-awesome.min.css
+11:32:19 AM: Count: 8  ToDo: 2
+11:32:19 AM: Downloading: 8 http://dsathemes.com/html/kolo/normal_register_form/css/owl.carousel.css
+11:32:19 AM: Count: 9  ToDo: 3
+11:32:19 AM: Downloading: 9 http://dsathemes.com/html/kolo/normal_register_form/css/prettyPhoto.css
+11:32:19 AM: Count: 10  ToDo: 4
+11:32:19 AM: Downloading: 24 http://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic&subset=latin,latin-ext
+11:32:19 AM: Count: 94  ToDo: 88
+11:32:19 AM: Done: 24 http://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic&subset=latin,latin-ext Success
+11:32:19 AM: Downloading: 46 http://www.youtube.com/embed/XSo4JQnm8Bw?rel=0
+11:32:19 AM: Count: 104  ToDo: 97
+11:32:19 AM: Done: 8 http://dsathemes.com/html/kolo/normal_register_form/css/owl.carousel.css Success
+11:32:19 AM: Downloading: 10 http://dsathemes.com/html/kolo/normal_register_form/css/flexslider.css
+11:32:19 AM: Count: 105  ToDo: 97
+11:32:19 AM: Done: 46 http://www.youtube.com/embed/XSo4JQnm8Bw?rel=0 Failed
+11:32:19 AM: : Fail http://www.youtube.com/embed/XSo4JQnm8Bw?rel=0
+11:32:19 AM: 501: Protocol "https" not implemented
+11:32:19 AM: LastError: 0 No Error
+11:32:19 AM: Downloading: 11 http://dsathemes.com/html/kolo/normal_register_form/css/style.css
+11:32:19 AM: Count: 105  ToDo: 96
+11:32:20 AM: Done: 7 http://dsathemes.com/html/kolo/normal_register_form/css/font-awesome.min.css Success
+11:32:20 AM: Downloading: 105 http://dsathemes.com/html/kolo/normal_register_form/fonts/fontawesome-webfont.eot?v=4.4.0
+11:32:20 AM: Count: 111  ToDo: 101
+11:32:20 AM: Done: 9 http://dsathemes.com/html/kolo/normal_register_form/css/prettyPhoto.css Success
+11:32:20 AM: Downloading: 106 http://dsathemes.com/html/kolo/normal_register_form/fonts/fontawesome-webfont.eot?
+11:32:20 AM: Count: 143  ToDo: 132
+11:32:20 AM: Done: 10 http://dsathemes.com/html/kolo/normal_register_form/css/flexslider.css Success
+11:32:20 AM: Downloading: 107 http://dsathemes.com/html/kolo/normal_register_form/fonts/fontawesome-webfont.woff2?v=4.4.0
+11:32:20 AM: Count: 144  ToDo: 132
+11:32:20 AM: Done: 6 http://dsathemes.com/html/kolo/normal_register_form/css/bootstrap.css Success
+11:32:20 AM: Count: 150
+11:32:20 AM: HTML: 7
+11:32:20 AM: Count: 150
+11:32:20 AM: HTML: 8
+11:32:20 AM: Count: 150
+11:32:20 AM: HTML: 9
+11:32:20 AM: Count: 150
+11:32:20 AM: HTML: 10
+11:32:20 AM: Count: 150
+11:32:20 AM: HTML: 11
+11:32:20 AM: Downloading: 108 http://dsathemes.com/html/kolo/normal_register_form/fonts/fontawesome-webfont.woff?v=4.4.0
+11:32:20 AM: Count: 150  ToDo: 137
+11:32:20 AM: Done: 11 http://dsathemes.com/html/kolo/normal_register_form/css/style.css Success
+11:32:20 AM: Count: 160
+11:32:20 AM: HTML: 12
+11:32:20 AM: Downloading: 109 http://dsathemes.com/html/kolo/normal_register_form/fonts/fontawesome-webfont.ttf?v=4.4.0
+11:32:20 AM: Count: 160  ToDo: 146
+11:32:21 AM: Done: 105 http://dsathemes.com/html/kolo/normal_register_form/fonts/fontawesome-webfont.eot?v=4.4.0 Success
+11:32:21 AM: Downloading: 110 http://dsathemes.com/html/kolo/normal_register_form/fonts/fontawesome-webfont.svg?v=4.4.0
+11:32:21 AM: Count: 160  ToDo: 145
+11:32:21 AM: Done: 106 http://dsathemes.com/html/kolo/normal_register_form/fonts/fontawesome-webfont.eot? Success
+11:32:21 AM: Downloading: 145 http://dsathemes.com/html/kolo/normal_register_form/fonts/glyphicons-halflings-regular.eot?
+11:32:21 AM: Count: 160  ToDo: 144
+11:32:21 AM: Done: 107 http://dsathemes.com/html/kolo/normal_register_form/fonts/fontawesome-webfont.woff2?v=4.4.0 Success
+11:32:21 AM: Downloading: 12 http://dsathemes.com/html/kolo/normal_register_form/css/green.css
+11:32:21 AM: Count: 160  ToDo: 143
+11:32:21 AM: Done: 145 http://dsathemes.com/html/kolo/normal_register_form/fonts/glyphicons-halflings-regular.eot? Success
+11:32:21 AM: Done: 108 http://dsathemes.com/html/kolo/normal_register_form/fonts/fontawesome-webfont.woff?v=4.4.0 Success
+11:32:21 AM: Downloading: 13 http://dsathemes.com/html/kolo/normal_register_form/css/tomato.css
+11:32:21 AM: Count: 160  ToDo: 141
+11:32:21 AM: Downloading: 14 http://dsathemes.com/html/kolo/normal_register_form/css/yellow.css
+11:32:21 AM: Count: 160  ToDo: 141
+11:32:22 AM: Done: 109 http://dsathemes.com/html/kolo/normal_register_form/fonts/fontawesome-webfont.ttf?v=4.4.0 Success
+11:32:22 AM: Downloading: 15 http://dsathemes.com/html/kolo/normal_register_form/css/purple.css
+11:32:22 AM: Count: 160  ToDo: 140
+11:32:22 AM: Done: 13 http://dsathemes.com/html/kolo/normal_register_form/css/tomato.css Success
+11:32:22 AM: Done: 12 http://dsathemes.com/html/kolo/normal_register_form/css/green.css Success
+11:32:22 AM: Count: 160
+11:32:22 AM: HTML: 13
+11:32:22 AM: Count: 160
+11:32:22 AM: HTML: 14
+11:32:22 AM: Downloading: 16 http://dsathemes.com/html/kolo/normal_register_form/css/violet.css
+11:32:22 AM: Count: 160  ToDo: 138
+11:32:22 AM: Downloading: 17 http://dsathemes.com/html/kolo/normal_register_form/css/skyblue.css
+11:32:22 AM: Count: 160  ToDo: 138
+11:32:22 AM: Done: 14 http://dsathemes.com/html/kolo/normal_register_form/css/yellow.css Success
+11:32:22 AM: Count: 160
+11:32:22 AM: HTML: 15
+11:32:22 AM: Downloading: 18 http://dsathemes.com/html/kolo/normal_register_form/css/responsive.css
+11:32:22 AM: Count: 160  ToDo: 137
+11:32:23 AM: Done: 15 http://dsathemes.com/html/kolo/normal_register_form/css/purple.css Success
+11:32:23 AM: Count: 160
+11:32:23 AM: HTML: 16
+11:32:23 AM: Downloading: 19 http://dsathemes.com/html/kolo/normal_register_form/img/icons/favicon.ico
+11:32:23 AM: Count: 160  ToDo: 136
+11:32:23 AM: Done: 110 http://dsathemes.com/html/kolo/normal_register_form/fonts/fontawesome-webfont.svg?v=4.4.0 Success
+11:32:23 AM: Downloading: 20 http://dsathemes.com/html/kolo/normal_register_form/img/icons/apple-touch-icon-144x144.png
+11:32:23 AM: Count: 160  ToDo: 135
+11:32:23 AM: Done: 18 http://dsathemes.com/html/kolo/normal_register_form/css/responsive.css Success
+11:32:23 AM: Downloading: 21 http://dsathemes.com/html/kolo/normal_register_form/img/icons/apple-touch-icon-114x114.png
+11:32:23 AM: Count: 160  ToDo: 134
+11:32:23 AM: Done: 16 http://dsathemes.com/html/kolo/normal_register_form/css/violet.css Success
+11:32:23 AM: Count: 160
+11:32:23 AM: HTML: 17
+11:32:23 AM: Downloading: 22 http://dsathemes.com/html/kolo/normal_register_form/img/icons/apple-touch-icon-72x72.png
+11:32:23 AM: Count: 160  ToDo: 133
+11:32:23 AM: Done: 19 http://dsathemes.com/html/kolo/normal_register_form/img/icons/favicon.ico Success
+11:32:23 AM: Done: 17 http://dsathemes.com/html/kolo/normal_register_form/css/skyblue.css Success
+11:32:23 AM: Count: 160
+11:32:23 AM: HTML: 18
+11:32:23 AM: Count: 160
+11:32:23 AM: HTML: 19
+11:32:23 AM: Count: 160
+11:32:23 AM: HTML: 20
+11:32:23 AM: Downloading: 23 http://dsathemes.com/html/kolo/normal_register_form/img/icons/apple-touch-icon.png
+11:32:23 AM: Count: 160  ToDo: 131
+11:32:23 AM: Downloading: 25 http://dsathemes.com/html/kolo/normal_register_form/img/logo.png
+11:32:23 AM: Count: 160  ToDo: 131
+11:32:23 AM: Done: 20 http://dsathemes.com/html/kolo/normal_register_form/img/icons/apple-touch-icon-144x144.png Success
+11:32:23 AM: Count: 160
+11:32:23 AM: HTML: 21
+11:32:23 AM: Downloading: 26 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('green-theme',%2060)
+11:32:23 AM: Count: 160  ToDo: 130
+11:32:23 AM: Done: 25 http://dsathemes.com/html/kolo/normal_register_form/img/logo.png Success
+11:32:23 AM: Downloading: 27 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/green.png
+11:32:23 AM: Count: 160  ToDo: 129
+11:32:23 AM: Done: 21 http://dsathemes.com/html/kolo/normal_register_form/img/icons/apple-touch-icon-114x114.png Success
+11:32:23 AM: Done: 27 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/green.png Success
+11:32:23 AM: Count: 160
+11:32:23 AM: HTML: 22
+11:32:23 AM: Downloading: 28 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('tomato-theme',%2060)
+11:32:23 AM: Count: 160  ToDo: 127
+11:32:23 AM: Downloading: 29 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/tomato.png
+11:32:23 AM: Count: 160  ToDo: 127
+11:32:23 AM: Done: 22 http://dsathemes.com/html/kolo/normal_register_form/img/icons/apple-touch-icon-72x72.png Success
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 23
+11:32:24 AM: Downloading: 30 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('yellow-theme',%2060)
+11:32:24 AM: Count: 160  ToDo: 126
+11:32:24 AM: Done: 29 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/tomato.png Success
+11:32:24 AM: Downloading: 31 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/yellow.png
+11:32:24 AM: Count: 160  ToDo: 125
+11:32:24 AM: Done: 26 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('green-theme',%2060) Failed
+11:32:24 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('green-theme',%2060)
+11:32:24 AM: 404: Not Found
+11:32:24 AM: LastError: 0 No Error
+11:32:24 AM: Done: 23 http://dsathemes.com/html/kolo/normal_register_form/img/icons/apple-touch-icon.png Success
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 24
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 25
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 26
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 27
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 28
+11:32:24 AM: Downloading: 32 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('purple-theme',%2060)
+11:32:24 AM: Count: 160  ToDo: 123
+11:32:24 AM: Downloading: 33 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/purple.png
+11:32:24 AM: Count: 160  ToDo: 123
+11:32:24 AM: Done: 31 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/yellow.png Success
+11:32:24 AM: Downloading: 34 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('skyblue-theme',%2060)
+11:32:24 AM: Count: 160  ToDo: 122
+11:32:24 AM: Done: 33 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/purple.png Success
+11:32:24 AM: Done: 28 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('tomato-theme',%2060) Failed
+11:32:24 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('tomato-theme',%2060)
+11:32:24 AM: 404: Not Found
+11:32:24 AM: LastError: 0 No Error
+11:32:24 AM: Done: 30 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('yellow-theme',%2060) Failed
+11:32:24 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('yellow-theme',%2060)
+11:32:24 AM: 404: Not Found
+11:32:24 AM: LastError: 0 No Error
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 29
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 30
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 31
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 32
+11:32:24 AM: Downloading: 35 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/skyblue.png
+11:32:24 AM: Count: 160  ToDo: 119
+11:32:24 AM: Downloading: 36 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('violet-theme',%2060)
+11:32:24 AM: Count: 160  ToDo: 119
+11:32:24 AM: Downloading: 37 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/violet.png
+11:32:24 AM: Count: 160  ToDo: 119
+11:32:24 AM: Done: 32 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('purple-theme',%2060) Failed
+11:32:24 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('purple-theme',%2060)
+11:32:24 AM: 404: Not Found
+11:32:24 AM: LastError: 0 No Error
+11:32:24 AM: Done: 35 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/skyblue.png Success
+11:32:24 AM: Done: 37 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/violet.png Success
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 33
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 34
+11:32:24 AM: Downloading: 38 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('none',%2060)
+11:32:24 AM: Count: 160  ToDo: 116
+11:32:24 AM: Downloading: 39 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/our-process-1.jpg
+11:32:24 AM: Count: 160  ToDo: 116
+11:32:24 AM: Downloading: 40 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/our-process-2.jpg
+11:32:24 AM: Count: 160  ToDo: 116
+11:32:24 AM: Done: 34 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('skyblue-theme',%2060) Failed
+11:32:24 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('skyblue-theme',%2060)
+11:32:24 AM: 404: Not Found
+11:32:24 AM: LastError: 0 No Error
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 35
+11:32:24 AM: Count: 160
+11:32:24 AM: HTML: 36
+11:32:24 AM: Downloading: 41 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/our-process-3.jpg
+11:32:24 AM: Count: 160  ToDo: 115
+11:32:25 AM: Done: 36 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('violet-theme',%2060) Failed
+11:32:25 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('violet-theme',%2060)
+11:32:25 AM: 404: Not Found
+11:32:25 AM: LastError: 0 No Error
+11:32:25 AM: Count: 160
+11:32:25 AM: HTML: 37
+11:32:25 AM: Count: 160
+11:32:25 AM: HTML: 38
+11:32:25 AM: Downloading: 42 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/about-image.jpg
+11:32:25 AM: Count: 160  ToDo: 114
+11:32:25 AM: Done: 38 http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('none',%2060) Failed
+11:32:25 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/javascript:chooseStyle('none',%2060)
+11:32:25 AM: 404: Not Found
+11:32:25 AM: LastError: 0 No Error
+11:32:25 AM: Count: 160
+11:32:25 AM: HTML: 39
+11:32:25 AM: Downloading: 43 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/promo-image-1.jpg
+11:32:25 AM: Count: 160  ToDo: 113
+11:32:25 AM: Done: 40 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/our-process-2.jpg Success
+11:32:25 AM: Downloading: 44 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/promo-image-2.jpg
+11:32:25 AM: Count: 160  ToDo: 112
+11:32:25 AM: Done: 39 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/our-process-1.jpg Success
+11:32:25 AM: Count: 160
+11:32:25 AM: HTML: 40
+11:32:25 AM: Count: 160
+11:32:25 AM: HTML: 41
+11:32:25 AM: Downloading: 45 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/promo-image-3.jpg
+11:32:25 AM: Count: 160  ToDo: 111
+11:32:25 AM: Done: 41 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/our-process-3.jpg Success
+11:32:25 AM: Count: 160
+11:32:25 AM: HTML: 42
+11:32:25 AM: Downloading: 47 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/team-1.jpg
+11:32:25 AM: Count: 160  ToDo: 110
+11:32:25 AM: Done: 42 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/about-image.jpg Success
+11:32:25 AM: Count: 160
+11:32:25 AM: HTML: 43
+11:32:25 AM: Downloading: 48 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/team-2.jpg
+11:32:25 AM: Count: 160  ToDo: 109
+11:32:26 AM: Done: 47 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/team-1.jpg Success
+11:32:26 AM: Downloading: 49 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/team-3.jpg
+11:32:26 AM: Count: 160  ToDo: 108
+11:32:26 AM: Done: 45 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/promo-image-3.jpg Success
+11:32:26 AM: Downloading: 50 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/team-4.jpg
+11:32:26 AM: Count: 160  ToDo: 107
+11:32:26 AM: Done: 48 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/team-2.jpg Success
+11:32:26 AM: Downloading: 51 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/big-promo.jpg
+11:32:26 AM: Count: 160  ToDo: 106
+11:32:26 AM: Done: 49 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/team-3.jpg Success
+11:32:26 AM: Downloading: 52 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/img5.jpg
+11:32:26 AM: Count: 160  ToDo: 105
+11:32:27 AM: Done: 44 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/promo-image-2.jpg Success
+11:32:27 AM: Downloading: 53 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/gallery_2x/img5.jpg
+11:32:27 AM: Count: 160  ToDo: 104
+11:32:27 AM: Done: 43 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/promo-image-1.jpg Success
+11:32:27 AM: Count: 160
+11:32:27 AM: HTML: 44
+11:32:27 AM: Count: 160
+11:32:27 AM: HTML: 45
+11:32:27 AM: Count: 160
+11:32:27 AM: HTML: 46
+11:32:27 AM: Count: 160
+11:32:27 AM: HTML: 47
+11:32:27 AM: Count: 160
+11:32:27 AM: HTML: 48
+11:32:27 AM: Count: 160
+11:32:27 AM: HTML: 49
+11:32:27 AM: Count: 160
+11:32:27 AM: HTML: 50
+11:32:27 AM: Downloading: 54 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/img3.jpg
+11:32:27 AM: Count: 160  ToDo: 103
+11:32:27 AM: Done: 50 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/team-4.jpg Success
+11:32:27 AM: Count: 160
+11:32:27 AM: HTML: 51
+11:32:27 AM: Downloading: 55 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/gallery_2x/img3.jpg
+11:32:27 AM: Count: 160  ToDo: 102
+11:32:27 AM: Done: 51 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/big-promo.jpg Success
+11:32:27 AM: Count: 160
+11:32:27 AM: HTML: 52
+11:32:27 AM: Downloading: 56 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/img2.jpg
+11:32:27 AM: Count: 160  ToDo: 101
+11:32:28 AM: Done: 53 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/gallery_2x/img5.jpg Success
+11:32:28 AM: Done: 56 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/img2.jpg Success
+11:32:28 AM: Downloading: 57 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/gallery_2x/img2.jpg
+11:32:28 AM: Count: 160  ToDo: 99
+11:32:28 AM: Downloading: 58 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/img4.jpg
+11:32:28 AM: Count: 160  ToDo: 99
+11:32:28 AM: Done: 54 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/img3.jpg Success
+11:32:28 AM: Downloading: 59 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/gallery_2x/img4.jpg
+11:32:28 AM: Count: 160  ToDo: 98
+11:32:29 AM: Done: 58 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/img4.jpg Success
+11:32:29 AM: Downloading: 60 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/img7.jpg
+11:32:29 AM: Count: 160  ToDo: 97
+11:32:29 AM: Done: 52 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/img5.jpg Success
+11:32:29 AM: Count: 160
+11:32:29 AM: HTML: 53
+11:32:29 AM: Count: 160
+11:32:29 AM: HTML: 54
+11:32:29 AM: Count: 160
+11:32:29 AM: HTML: 55
+11:32:29 AM: Downloading: 61 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/gallery_2x/img7.jpg
+11:32:29 AM: Count: 160  ToDo: 96
+11:32:29 AM: Done: 55 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/gallery_2x/img3.jpg Success
+11:32:29 AM: Count: 160
+11:32:29 AM: HTML: 56
+11:32:29 AM: Count: 160
+11:32:29 AM: HTML: 57
+11:32:29 AM: Downloading: 62 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/img8.jpg
+11:32:29 AM: Count: 160  ToDo: 95
+11:32:30 AM: Done: 59 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/gallery_2x/img4.jpg Success
+11:32:30 AM: Downloading: 63 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/gallery_2x/img8.jpg
+11:32:30 AM: Count: 160  ToDo: 94
+11:32:30 AM: Done: 60 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/img7.jpg Success
+11:32:30 AM: Downloading: 64 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/phones.png
+11:32:30 AM: Count: 160  ToDo: 93
+11:32:30 AM: Done: 57 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/gallery_2x/img2.jpg Success
+11:32:30 AM: Count: 160
+11:32:31 AM: HTML: 58
+11:32:31 AM: Count: 160
+11:32:31 AM: HTML: 59
+11:32:31 AM: Count: 160
+11:32:31 AM: HTML: 60
+11:32:31 AM: Count: 160
+11:32:31 AM: HTML: 61
+11:32:31 AM: Downloading: 65 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/member-1.jpg
+11:32:31 AM: Count: 160  ToDo: 92
+11:32:31 AM: Done: 65 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/member-1.jpg Success
+11:32:31 AM: Downloading: 66 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/member-2.jpg
+11:32:31 AM: Count: 160  ToDo: 91
+11:32:31 AM: Done: 62 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/img8.jpg Success
+11:32:31 AM: Downloading: 67 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/member-4.jpg
+11:32:31 AM: Count: 160  ToDo: 90
+11:32:31 AM: Done: 61 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/gallery_2x/img7.jpg Success
+11:32:31 AM: Count: 160
+11:32:31 AM: HTML: 62
+11:32:31 AM: Count: 160
+11:32:31 AM: HTML: 63
+11:32:31 AM: Downloading: 68 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/member-3.jpg
+11:32:31 AM: Count: 160  ToDo: 89
+11:32:31 AM: Done: 66 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/member-2.jpg Success
+11:32:31 AM: Downloading: 69 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/client-1.png
+11:32:31 AM: Count: 160  ToDo: 88
+11:32:31 AM: Done: 67 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/member-4.jpg Success
+11:32:31 AM: Downloading: 70 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/client-2.png
+11:32:31 AM: Count: 160  ToDo: 87
+11:32:31 AM: Done: 69 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/client-1.png Success
+11:32:31 AM: Downloading: 71 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/client-3.png
+11:32:31 AM: Count: 160  ToDo: 86
+11:32:32 AM: Done: 68 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/member-3.jpg Success
+11:32:32 AM: Downloading: 72 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/client-4.png
+11:32:32 AM: Count: 160  ToDo: 85
+11:32:32 AM: Done: 70 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/client-2.png Success
+11:32:32 AM: Downloading: 73 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/client-5.png
+11:32:32 AM: Count: 160  ToDo: 84
+11:32:32 AM: Done: 63 http://dsathemes.com/html/kolo/normal_register_form/img/portfolio/gallery_2x/img8.jpg Success
+11:32:32 AM: Count: 160
+11:32:32 AM: HTML: 64
+11:32:32 AM: Downloading: 74 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/client-6.png
+11:32:32 AM: Count: 160  ToDo: 83
+11:32:32 AM: Done: 71 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/client-3.png Success
+11:32:32 AM: Downloading: 75 http://dsathemes.com/html/kolo/normal_register_form/js/jquery-2.1.4.min.js
+11:32:32 AM: Count: 160  ToDo: 82
+11:32:32 AM: Done: 72 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/client-4.png Success
+11:32:32 AM: Downloading: 76 http://dsathemes.com/html/kolo/normal_register_form/js/bootstrap.min.js
+11:32:32 AM: Count: 160  ToDo: 81
+11:32:32 AM: Done: 74 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/client-6.png Success
+11:32:32 AM: Downloading: 77 http://dsathemes.com/html/kolo/normal_register_form/js/modernizr.custom.js
+11:32:32 AM: Count: 160  ToDo: 80
+11:32:32 AM: Done: 73 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/client-5.png Success
+11:32:32 AM: Downloading: 78 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.easing.js
+11:32:32 AM: Count: 160  ToDo: 79
+11:32:32 AM: Done: 77 http://dsathemes.com/html/kolo/normal_register_form/js/modernizr.custom.js Success
+11:32:32 AM: Done: 78 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.easing.js Success
+11:32:32 AM: Downloading: 79 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.scrollto.js
+11:32:32 AM: Count: 160  ToDo: 77
+11:32:32 AM: Downloading: 80 http://dsathemes.com/html/kolo/normal_register_form/js/owl.carousel.js
+11:32:32 AM: Count: 160  ToDo: 77
+11:32:32 AM: Done: 64 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/phones.png Success
+11:32:32 AM: Count: 160
+11:32:32 AM: HTML: 65
+11:32:32 AM: Count: 160
+11:32:32 AM: HTML: 66
+11:32:32 AM: Count: 160
+11:32:32 AM: HTML: 67
+11:32:32 AM: Count: 160
+11:32:32 AM: HTML: 68
+11:32:32 AM: Count: 160
+11:32:32 AM: HTML: 69
+11:32:32 AM: Count: 160
+11:32:32 AM: HTML: 70
+11:32:33 AM: Count: 160
+11:32:33 AM: HTML: 71
+11:32:33 AM: Count: 160
+11:32:33 AM: HTML: 72
+11:32:33 AM: Count: 160
+11:32:33 AM: HTML: 73
+11:32:33 AM: Count: 160
+11:32:33 AM: HTML: 74
+11:32:33 AM: Count: 160
+11:32:33 AM: HTML: 75
+11:32:33 AM: Downloading: 81 http://dsathemes.com/html/kolo/normal_register_form/js/count-to.js
+11:32:33 AM: Count: 160  ToDo: 76
+11:32:33 AM: Done: 76 http://dsathemes.com/html/kolo/normal_register_form/js/bootstrap.min.js Success
+11:32:33 AM: Downloading: 82 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.appear.js
+11:32:33 AM: Count: 170  ToDo: 85
+11:32:33 AM: Done: 75 http://dsathemes.com/html/kolo/normal_register_form/js/jquery-2.1.4.min.js Success
+11:32:33 AM: Count: 173
+11:32:33 AM: HTML: 76
+11:32:33 AM: Count: 173
+11:32:33 AM: HTML: 77
+11:32:33 AM: Count: 173
+11:32:33 AM: HTML: 78
+11:32:33 AM: Count: 173
+11:32:33 AM: HTML: 79
+11:32:33 AM: Downloading: 170 http://dsathemes.com/html/kolo/normal_register_form/js/(?:////.|[//w-]|[^//x00-//xa0])+
+11:32:33 AM: Count: 173  ToDo: 87
+11:32:33 AM: Done: 79 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.scrollto.js Success
+11:32:33 AM: Count: 173
+11:32:33 AM: HTML: 80
+11:32:33 AM: Downloading: 171 http://dsathemes.com/html/kolo/normal_register_form/js/^:(only|first|last|nth|nth-last)-(child|of-type)(?://(
+11:32:33 AM: Count: 173  ToDo: 86
+11:32:33 AM: Done: 81 http://dsathemes.com/html/kolo/normal_register_form/js/count-to.js Success
+11:32:33 AM: Done: 82 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.appear.js Success
+11:32:33 AM: Downloading: 172 http://dsathemes.com/html/kolo/normal_register_form/js/^(?:
+11:32:33 AM: Count: 173  ToDo: 84
+11:32:33 AM: Downloading: 83 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.prettyPhoto.js
+11:32:33 AM: Count: 173  ToDo: 84
+11:32:33 AM: Done: 80 http://dsathemes.com/html/kolo/normal_register_form/js/owl.carousel.js Success
+11:32:33 AM: Done: 170 http://dsathemes.com/html/kolo/normal_register_form/js/(?:////.|[//w-]|[^//x00-//xa0])+ Failed
+11:32:33 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/(?:////.|[//w-]|[^//x00-//xa0])+
+11:32:33 AM: 404: Not Found
+11:32:33 AM: LastError: 0 No Error
+11:32:33 AM: Count: 188
+11:32:33 AM: HTML: 81
+11:32:33 AM: Count: 188
+11:32:33 AM: HTML: 82
+11:32:33 AM: Count: 188
+11:32:33 AM: HTML: 83
+11:32:33 AM: Downloading: 84 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.mixitup.js
+11:32:33 AM: Count: 188  ToDo: 97
+11:32:33 AM: Downloading: 85 http://dsathemes.com/html/kolo/normal_register_form/js/retina.js
+11:32:33 AM: Count: 188  ToDo: 97
+11:32:33 AM: Done: 171 http://dsathemes.com/html/kolo/normal_register_form/js/^:(only|first|last|nth|nth-last)-(child|of-type)(?://( Failed
+11:32:33 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/^:(only|first|last|nth|nth-last)-(child|of-type)(?://(
+11:32:33 AM: 404: Not Found
+11:32:33 AM: LastError: 0 No Error
+11:32:33 AM: Downloading: 86 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.flexslider.js
+11:32:33 AM: Count: 188  ToDo: 96
+11:32:34 AM: Done: 172 http://dsathemes.com/html/kolo/normal_register_form/js/^(?: Failed
+11:32:34 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/^(?:
+11:32:34 AM: 404: Not Found
+11:32:34 AM: LastError: 0 No Error
+11:32:34 AM: Downloading: 87 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.validate.min.js
+11:32:34 AM: Count: 188  ToDo: 95
+11:32:34 AM: Done: 85 http://dsathemes.com/html/kolo/normal_register_form/js/retina.js Success
+11:32:34 AM: Downloading: 88 http://dsathemes.com/html/kolo/normal_register_form/js/waypoints.min.js
+11:32:34 AM: Count: 188  ToDo: 94
+11:32:34 AM: Done: 83 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.prettyPhoto.js Success
+11:32:34 AM: Done: 84 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.mixitup.js Success
+11:32:34 AM: Done: 88 http://dsathemes.com/html/kolo/normal_register_form/js/waypoints.min.js Failed
+11:32:34 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/waypoints.min.js
+11:32:34 AM: 404: Not Found
+11:32:34 AM: LastError: 0 No Error
+11:32:34 AM: Done: 86 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.flexslider.js Success
+11:32:34 AM: Done: 87 http://dsathemes.com/html/kolo/normal_register_form/js/jquery.validate.min.js Success
+11:32:34 AM: Count: 204
+11:32:34 AM: HTML: 84
+11:32:34 AM: Count: 204
+11:32:34 AM: HTML: 85
+11:32:34 AM: Count: 204
+11:32:34 AM: HTML: 86
+11:32:34 AM: Count: 204
+11:32:34 AM: HTML: 87
+11:32:34 AM: Count: 204
+11:32:34 AM: HTML: 88
+11:32:34 AM: Count: 204
+11:32:34 AM: HTML: 89
+11:32:34 AM: Downloading: 191 http://dsathemes.com/html/kolo/normal_register_form/js/));%20//%20Strip%20anything%20after%20the%20?
+
+if(movie_id.indexOf(
+11:32:34 AM: Count: 204  ToDo: 105
+11:32:34 AM: Downloading: 89 http://dsathemes.com/html/kolo/normal_register_form/js/custom.js
+11:32:34 AM: Count: 204  ToDo: 105
+11:32:34 AM: Downloading: 90 http://dsathemes.com/html/kolo/normal_register_form/js/changer.js
+11:32:34 AM: Count: 204  ToDo: 105
+11:32:34 AM: Downloading: 91 http://dsathemes.com/html/kolo/normal_register_form/js/styleswitch.js
+11:32:34 AM: Count: 204  ToDo: 105
+11:32:34 AM: Downloading: 92 http://dsathemes.com/html/kolo/normal_register_form/contact.php
+11:32:34 AM: Count: 204  ToDo: 105
+11:32:35 AM: Done: 191 http://dsathemes.com/html/kolo/normal_register_form/js/));%20//%20Strip%20anything%20after%20the%20?
+
+if(movie_id.indexOf( Success
+11:32:35 AM: Downloading: 93 http://dsathemes.com/html/kolo/normal_register_form/subscribe.php
+11:32:35 AM: Count: 204  ToDo: 104
+11:32:35 AM: Done: 90 http://dsathemes.com/html/kolo/normal_register_form/js/changer.js Success
+11:32:35 AM: Done: 89 http://dsathemes.com/html/kolo/normal_register_form/js/custom.js Success
+11:32:35 AM: Done: 91 http://dsathemes.com/html/kolo/normal_register_form/js/styleswitch.js Success
+11:32:35 AM: Done: 92 http://dsathemes.com/html/kolo/normal_register_form/contact.php Success
+11:32:35 AM: Count: 206
+11:32:35 AM: HTML: 90
+11:32:35 AM: Count: 206
+11:32:35 AM: HTML: 91
+11:32:35 AM: Count: 206
+11:32:35 AM: HTML: 92
+11:32:35 AM: Count: 206
+11:32:35 AM: HTML: 93
+11:32:35 AM: Downloading: 94 http://fonts.gstatic.com/s/lato/v11/vDvcuXwZxUMLuTfuLrSLpA.ttf
+11:32:35 AM: Count: 206  ToDo: 102
+11:32:35 AM: Downloading: 95 http://fonts.gstatic.com/s/lato/v11/BTu4SsVveqk58cdYjlaM9g.ttf
+11:32:35 AM: Count: 206  ToDo: 102
+11:32:35 AM: Downloading: 96 http://fonts.gstatic.com/s/lato/v11/4GwpJM7qx9X5Obd9KsnKxQ.ttf
+11:32:35 AM: Count: 206  ToDo: 102
+11:32:35 AM: Downloading: 97 http://fonts.gstatic.com/s/lato/v11/zpv3sOKAbMf4wff105oLjw.ttf
+11:32:35 AM: Count: 206  ToDo: 102
+11:32:36 AM: Done: 94 http://fonts.gstatic.com/s/lato/v11/vDvcuXwZxUMLuTfuLrSLpA.ttf Success
+11:32:36 AM: Done: 97 http://fonts.gstatic.com/s/lato/v11/zpv3sOKAbMf4wff105oLjw.ttf Success
+11:32:36 AM: Done: 95 http://fonts.gstatic.com/s/lato/v11/BTu4SsVveqk58cdYjlaM9g.ttf Success
+11:32:36 AM: Done: 96 http://fonts.gstatic.com/s/lato/v11/4GwpJM7qx9X5Obd9KsnKxQ.ttf Success
+11:32:36 AM: Downloading: 98 http://fonts.gstatic.com/s/lato/v11/5pEc4QKTMA2oB4Hi9NkS4w.ttf
+11:32:36 AM: Count: 206  ToDo: 98
+11:32:36 AM: Downloading: 99 http://fonts.gstatic.com/s/lato/v11/BcYrd0iNCJ_stXPM2VCqXPesZW2xOQ-xsNqO47m55DA.ttf
+11:32:36 AM: Count: 206  ToDo: 98
+11:32:36 AM: Downloading: 100 http://fonts.gstatic.com/s/lato/v11/XNVd6tsqi9wmKNvnh5HNEKCWcynf_cDxXwCLxiixG1c.ttf
+11:32:36 AM: Count: 206  ToDo: 98
+11:32:36 AM: Downloading: 101 http://fonts.gstatic.com/s/lato/v11/LgcV55siz7BRNdbO3Huj5g.ttf
+11:32:36 AM: Count: 206  ToDo: 98
+11:32:36 AM: Done: 93 http://dsathemes.com/html/kolo/normal_register_form/subscribe.php Failed
+11:32:36 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/subscribe.php
+11:32:36 AM: 500: Internal Server Error
+11:32:36 AM: LastError: 0 No Error
+11:32:36 AM: Count: 206
+11:32:36 AM: HTML: 94
+11:32:36 AM: Count: 206
+11:32:36 AM: HTML: 95
+11:32:36 AM: Count: 206
+11:32:36 AM: HTML: 96
+11:32:36 AM: Count: 206
+11:32:36 AM: HTML: 97
+11:32:36 AM: Count: 206
+11:32:36 AM: HTML: 98
+11:32:36 AM: Downloading: 102 http://fonts.gstatic.com/s/lato/v11/AcvTq8Q0lyKKNxRlL28Rn6CWcynf_cDxXwCLxiixG1c.ttf
+11:32:36 AM: Count: 206  ToDo: 97
+11:32:36 AM: Done: 99 http://fonts.gstatic.com/s/lato/v11/BcYrd0iNCJ_stXPM2VCqXPesZW2xOQ-xsNqO47m55DA.ttf Success
+11:32:36 AM: Done: 98 http://fonts.gstatic.com/s/lato/v11/5pEc4QKTMA2oB4Hi9NkS4w.ttf Success
+11:32:36 AM: Count: 206
+11:32:37 AM: HTML: 99
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 100
+11:32:37 AM: Downloading: 103 http://fonts.gstatic.com/s/lato/v11/81X-1TO5y4aMK2PPy9kFw6CWcynf_cDxXwCLxiixG1c.ttf
+11:32:37 AM: Count: 206  ToDo: 95
+11:32:37 AM: Downloading: 104 http://dsathemes.com/html/kolo/normal_register_form/css/grabbing.png
+11:32:37 AM: Count: 206  ToDo: 95
+11:32:37 AM: Done: 101 http://fonts.gstatic.com/s/lato/v11/LgcV55siz7BRNdbO3Huj5g.ttf Success
+11:32:37 AM: Downloading: 111 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/sprite.png
+11:32:37 AM: Count: 206  ToDo: 94
+11:32:37 AM: Done: 100 http://fonts.gstatic.com/s/lato/v11/XNVd6tsqi9wmKNvnh5HNEKCWcynf_cDxXwCLxiixG1c.ttf Success
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 101
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 102
+11:32:37 AM: Downloading: 112 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/sprite_x.png
+11:32:37 AM: Count: 206  ToDo: 93
+11:32:37 AM: Done: 102 http://fonts.gstatic.com/s/lato/v11/AcvTq8Q0lyKKNxRlL28Rn6CWcynf_cDxXwCLxiixG1c.ttf Success
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 103
+11:32:37 AM: Downloading: 113 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/sprite_y.png
+11:32:37 AM: Count: 206  ToDo: 92
+11:32:37 AM: Done: 103 http://fonts.gstatic.com/s/lato/v11/81X-1TO5y4aMK2PPy9kFw6CWcynf_cDxXwCLxiixG1c.ttf Success
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 104
+11:32:37 AM: Downloading: 114 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/sprite_next.png
+11:32:37 AM: Count: 206  ToDo: 91
+11:32:37 AM: Done: 104 http://dsathemes.com/html/kolo/normal_register_form/css/grabbing.png Failed
+11:32:37 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/css/grabbing.png
+11:32:37 AM: 404: Not Found
+11:32:37 AM: LastError: 0 No Error
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 105
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 106
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 107
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 108
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 109
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 110
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 111
+11:32:37 AM: Downloading: 115 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/sprite_prev.png
+11:32:37 AM: Count: 206  ToDo: 90
+11:32:37 AM: Done: 111 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/sprite.png Success
+11:32:37 AM: Done: 112 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/sprite_x.png Success
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 112
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 113
+11:32:37 AM: Downloading: 116 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/default_thumb.png
+11:32:37 AM: Count: 206  ToDo: 88
+11:32:37 AM: Downloading: 117 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/loader.gif
+11:32:37 AM: Count: 206  ToDo: 88
+11:32:37 AM: Done: 113 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/sprite_y.png Success
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 114
+11:32:37 AM: Downloading: 118 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_rounded/sprite.png
+11:32:37 AM: Count: 206  ToDo: 87
+11:32:37 AM: Done: 114 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/sprite_next.png Success
+11:32:37 AM: Count: 206
+11:32:37 AM: HTML: 115
+11:32:37 AM: Downloading: 119 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_rounded/btnNext.png
+11:32:37 AM: Count: 206  ToDo: 86
+11:32:38 AM: Done: 115 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/sprite_prev.png Success
+11:32:38 AM: Done: 116 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/default_thumb.png Success
+11:32:38 AM: Done: 117 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/default/loader.gif Success
+11:32:38 AM: Count: 206
+11:32:38 AM: HTML: 116
+11:32:38 AM: Count: 206
+11:32:38 AM: HTML: 117
+11:32:38 AM: Count: 206
+11:32:38 AM: HTML: 118
+11:32:38 AM: Downloading: 120 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_rounded/btnPrevious.png
+11:32:38 AM: Count: 206  ToDo: 83
+11:32:38 AM: Downloading: 121 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_rounded/loader.gif
+11:32:38 AM: Count: 206  ToDo: 83
+11:32:38 AM: Downloading: 122 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_rounded/sprite.png
+11:32:38 AM: Count: 206  ToDo: 83
+11:32:38 AM: Done: 118 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_rounded/sprite.png Success
+11:32:38 AM: Done: 119 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_rounded/btnNext.png Success
+11:32:38 AM: Count: 206
+11:32:38 AM: HTML: 119
+11:32:38 AM: Count: 206
+11:32:38 AM: HTML: 120
+11:32:38 AM: Downloading: 123 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_rounded/contentPattern.png
+11:32:38 AM: Count: 206  ToDo: 81
+11:32:38 AM: Downloading: 124 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_rounded/btnNext.png
+11:32:38 AM: Count: 206  ToDo: 81
+11:32:38 AM: Done: 120 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_rounded/btnPrevious.png Success
+11:32:38 AM: Done: 121 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_rounded/loader.gif Success
+11:32:38 AM: Done: 122 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_rounded/sprite.png Success
+11:32:38 AM: Count: 206
+11:32:38 AM: HTML: 121
+11:32:38 AM: Count: 206
+11:32:38 AM: HTML: 122
+11:32:38 AM: Count: 206
+11:32:38 AM: HTML: 123
+11:32:38 AM: Downloading: 125 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_rounded/btnPrevious.png
+11:32:38 AM: Count: 206  ToDo: 78
+11:32:38 AM: Downloading: 126 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_rounded/loader.gif
+11:32:38 AM: Count: 206  ToDo: 78
+11:32:38 AM: Downloading: 127 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_square/loader.gif
+11:32:38 AM: Count: 206  ToDo: 78
+11:32:39 AM: Done: 123 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_rounded/contentPattern.png Success
+11:32:39 AM: Count: 206
+11:32:39 AM: HTML: 124
+11:32:39 AM: Downloading: 128 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_square/sprite.png
+11:32:39 AM: Count: 206  ToDo: 77
+11:32:39 AM: Done: 124 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_rounded/btnNext.png Success
+11:32:39 AM: Count: 206
+11:32:39 AM: HTML: 125
+11:32:39 AM: Downloading: 129 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_square/btnNext.png
+11:32:39 AM: Count: 206  ToDo: 76
+11:32:39 AM: Done: 125 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_rounded/btnPrevious.png Success
+11:32:39 AM: Done: 127 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_square/loader.gif Success
+11:32:39 AM: Done: 126 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_rounded/loader.gif Success
+11:32:39 AM: Count: 206
+11:32:39 AM: HTML: 126
+11:32:39 AM: Count: 206
+11:32:39 AM: HTML: 127
+11:32:39 AM: Count: 206
+11:32:39 AM: HTML: 128
+11:32:39 AM: Downloading: 130 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_square/btnPrevious.png
+11:32:39 AM: Count: 206  ToDo: 73
+11:32:39 AM: Downloading: 131 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_square/sprite.png
+11:32:39 AM: Count: 206  ToDo: 73
+11:32:39 AM: Downloading: 132 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_square/btnNext.png
+11:32:39 AM: Count: 206  ToDo: 73
+11:32:39 AM: Done: 128 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_square/sprite.png Success
+11:32:39 AM: Count: 206
+11:32:39 AM: HTML: 129
+11:32:39 AM: Downloading: 133 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_square/btnPrevious.png
+11:32:39 AM: Count: 206  ToDo: 72
+11:32:39 AM: Done: 129 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_square/btnNext.png Success
+11:32:39 AM: Count: 206
+11:32:39 AM: HTML: 130
+11:32:39 AM: Downloading: 134 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/sprite.png
+11:32:39 AM: Count: 206  ToDo: 71
+11:32:39 AM: Done: 131 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_square/sprite.png Success
+11:32:39 AM: Done: 130 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/dark_square/btnPrevious.png Success
+11:32:39 AM: Done: 132 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_square/btnNext.png Success
+11:32:39 AM: Count: 206
+11:32:39 AM: HTML: 131
+11:32:39 AM: Count: 206
+11:32:39 AM: HTML: 132
+11:32:39 AM: Count: 206
+11:32:39 AM: HTML: 133
+11:32:39 AM: Downloading: 135 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/contentPatternTop.png
+11:32:39 AM: Count: 206  ToDo: 68
+11:32:39 AM: Downloading: 136 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/contentPatternLeft.png
+11:32:39 AM: Count: 206  ToDo: 68
+11:32:39 AM: Downloading: 137 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/contentPatternRight.png
+11:32:39 AM: Count: 206  ToDo: 68
+11:32:40 AM: Done: 133 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/light_square/btnPrevious.png Success
+11:32:40 AM: Count: 206
+11:32:40 AM: HTML: 134
+11:32:40 AM: Downloading: 138 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/loader.gif
+11:32:40 AM: Count: 206  ToDo: 67
+11:32:40 AM: Done: 134 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/sprite.png Success
+11:32:40 AM: Count: 206
+11:32:40 AM: HTML: 135
+11:32:40 AM: Downloading: 139 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/btnNext.png
+11:32:40 AM: Count: 206  ToDo: 66
+11:32:40 AM: Done: 136 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/contentPatternLeft.png Success
+11:32:40 AM: Done: 135 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/contentPatternTop.png Success
+11:32:40 AM: Done: 137 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/contentPatternRight.png Success
+11:32:40 AM: Count: 206
+11:32:40 AM: HTML: 136
+11:32:40 AM: Count: 206
+11:32:40 AM: HTML: 137
+11:32:40 AM: Count: 206
+11:32:40 AM: HTML: 138
+11:32:40 AM: Downloading: 140 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/btnPrevious.png
+11:32:40 AM: Count: 206  ToDo: 63
+11:32:40 AM: Downloading: 141 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/contentPatternBottom.png
+11:32:40 AM: Count: 206  ToDo: 63
+11:32:40 AM: Downloading: 142 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/default_thumbnail.gif
+11:32:40 AM: Count: 206  ToDo: 63
+11:32:40 AM: Done: 138 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/loader.gif Success
+11:32:40 AM: Count: 206
+11:32:40 AM: HTML: 139
+11:32:40 AM: Downloading: 143 http://dsathemes.com/html/kolo/normal_register_form/img/icons/bg_direction_nav.png
+11:32:40 AM: Count: 206  ToDo: 62
+11:32:40 AM: Done: 139 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/btnNext.png Success
+11:32:40 AM: Count: 206
+11:32:40 AM: HTML: 140
+11:32:40 AM: Downloading: 144 http://dsathemes.com/html/kolo/normal_register_form/fonts/glyphicons-halflings-regular.eot
+11:32:40 AM: Count: 206  ToDo: 61
+11:32:40 AM: Done: 140 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/btnPrevious.png Success
+11:32:40 AM: Done: 141 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/contentPatternBottom.png Success
+11:32:40 AM: Done: 142 http://dsathemes.com/html/kolo/normal_register_form/img/prettyPhoto/facebook/default_thumbnail.gif Success
+11:32:40 AM: Count: 206
+11:32:40 AM: HTML: 141
+11:32:40 AM: Count: 206
+11:32:40 AM: HTML: 142
+11:32:40 AM: Count: 206
+11:32:40 AM: HTML: 143
+11:32:40 AM: Downloading: 146 http://dsathemes.com/html/kolo/normal_register_form/fonts/glyphicons-halflings-regular.woff2
+11:32:40 AM: Count: 206  ToDo: 58
+11:32:40 AM: Downloading: 147 http://dsathemes.com/html/kolo/normal_register_form/fonts/glyphicons-halflings-regular.woff
+11:32:40 AM: Count: 206  ToDo: 58
+11:32:40 AM: Downloading: 148 http://dsathemes.com/html/kolo/normal_register_form/fonts/glyphicons-halflings-regular.ttf
+11:32:40 AM: Count: 206  ToDo: 58
+11:32:41 AM: Done: 143 http://dsathemes.com/html/kolo/normal_register_form/img/icons/bg_direction_nav.png Failed
+11:32:41 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/img/icons/bg_direction_nav.png
+11:32:41 AM: 404: Not Found
+11:32:41 AM: LastError: 0 No Error
+11:32:41 AM: Count: 206
+11:32:41 AM: HTML: 144
+11:32:41 AM: Downloading: 149 http://dsathemes.com/html/kolo/normal_register_form/fonts/glyphicons-halflings-regular.svg
+11:32:41 AM: Count: 206  ToDo: 57
+11:32:41 AM: Done: 144 http://dsathemes.com/html/kolo/normal_register_form/fonts/glyphicons-halflings-regular.eot Success
+11:32:41 AM: Count: 206
+11:32:41 AM: HTML: 145
+11:32:41 AM: Count: 206
+11:32:41 AM: HTML: 146
+11:32:41 AM: Downloading: 150 http://dsathemes.com/html/kolo/normal_register_form/img/icons/loader.GIF
+11:32:41 AM: Count: 206  ToDo: 56
+11:32:41 AM: Done: 146 http://dsathemes.com/html/kolo/normal_register_form/fonts/glyphicons-halflings-regular.woff2 Success
+11:32:41 AM: Count: 206
+11:32:41 AM: HTML: 147
+11:32:41 AM: Downloading: 151 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/intro-bkg.jpg
+11:32:41 AM: Count: 206  ToDo: 55
+11:32:41 AM: Done: 150 http://dsathemes.com/html/kolo/normal_register_form/img/icons/loader.GIF Success
+11:32:41 AM: Done: 147 http://dsathemes.com/html/kolo/normal_register_form/fonts/glyphicons-halflings-regular.woff Success
+11:32:41 AM: Count: 206
+11:32:41 AM: HTML: 148
+11:32:41 AM: Downloading: 152 http://dsathemes.com/html/kolo/normal_register_form/img/parallax_bg/statistic.jpg
+11:32:41 AM: Count: 206  ToDo: 53
+11:32:41 AM: Downloading: 153 http://dsathemes.com/html/kolo/normal_register_form/img/parallax_bg/newsletter.png
+11:32:41 AM: Count: 206  ToDo: 53
+11:32:41 AM: Done: 148 http://dsathemes.com/html/kolo/normal_register_form/fonts/glyphicons-halflings-regular.ttf Success
+11:32:41 AM: Count: 206
+11:32:41 AM: HTML: 149
+11:32:41 AM: Downloading: 154 http://dsathemes.com/html/kolo/normal_register_form/img/icons/pointer.png
+11:32:41 AM: Count: 206  ToDo: 52
+11:32:41 AM: Done: 154 http://dsathemes.com/html/kolo/normal_register_form/img/icons/pointer.png Success
+11:32:41 AM: Downloading: 155 http://dsathemes.com/html/kolo/normal_register_form/img/parallax_bg/testimonials.jpg
+11:32:41 AM: Count: 206  ToDo: 51
+11:32:42 AM: Done: 151 http://dsathemes.com/html/kolo/normal_register_form/img/thumbs/intro-bkg.jpg Success
+11:32:42 AM: Downloading: 156 http://dsathemes.com/html/kolo/normal_register_form/img/parallax_bg/bottom-promo-line.jpg
+11:32:42 AM: Count: 206  ToDo: 50
+11:32:43 AM: Done: 152 http://dsathemes.com/html/kolo/normal_register_form/img/parallax_bg/statistic.jpg Success
+11:32:43 AM: Downloading: 157 http://dsathemes.com/html/kolo/normal_register_form/img/parallax_bg/call-to-action.png
+11:32:43 AM: Count: 206  ToDo: 49
+11:32:43 AM: Done: 149 http://dsathemes.com/html/kolo/normal_register_form/fonts/glyphicons-halflings-regular.svg Success
+11:32:43 AM: Count: 206
+11:32:43 AM: HTML: 150
+11:32:43 AM: Count: 206
+11:32:43 AM: HTML: 151
+11:32:43 AM: Count: 206
+11:32:43 AM: HTML: 152
+11:32:43 AM: Count: 206
+11:32:43 AM: HTML: 153
+11:32:43 AM: Downloading: 158 http://dsathemes.com/html/kolo/normal_register_form/img/icons/back-to-top.png
+11:32:43 AM: Count: 206  ToDo: 48
+11:32:43 AM: Done: 158 http://dsathemes.com/html/kolo/normal_register_form/img/icons/back-to-top.png Success
+11:32:43 AM: Downloading: 159 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/light.jpg
+11:32:43 AM: Count: 206  ToDo: 47
+11:32:44 AM: Done: 159 http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/light.jpg Failed
+11:32:44 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/img/color-scheme/light.jpg
+11:32:44 AM: 404: Not Found
+11:32:44 AM: LastError: 0 No Error
+11:32:44 AM: Done: 155 http://dsathemes.com/html/kolo/normal_register_form/img/parallax_bg/testimonials.jpg Success
+11:32:44 AM: Downloading: 160 http://dsathemes.com/html/kolo/normal_register_form/js/.btn
+11:32:44 AM: Count: 206  ToDo: 45
+11:32:44 AM: Downloading: 161 http://dsathemes.com/html/kolo/normal_register_form/js/.item
+11:32:44 AM: Count: 206  ToDo: 45
+11:32:44 AM: Done: 156 http://dsathemes.com/html/kolo/normal_register_form/img/parallax_bg/bottom-promo-line.jpg Success
+11:32:44 AM: Downloading: 162 http://dsathemes.com/html/kolo/normal_register_form/js/.next,%20.prev
+11:32:44 AM: Count: 206  ToDo: 44
+11:32:44 AM: Done: 160 http://dsathemes.com/html/kolo/normal_register_form/js/.btn Failed
+11:32:44 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/.btn
+11:32:44 AM: 404: Not Found
+11:32:44 AM: LastError: 0 No Error
+11:32:44 AM: Done: 161 http://dsathemes.com/html/kolo/normal_register_form/js/.item Failed
+11:32:44 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/.item
+11:32:44 AM: 404: Not Found
+11:32:44 AM: LastError: 0 No Error
+11:32:44 AM: Done: 162 http://dsathemes.com/html/kolo/normal_register_form/js/.next,%20.prev Failed
+11:32:44 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/.next,%20.prev
+11:32:44 AM: 404: Not Found
+11:32:44 AM: LastError: 0 No Error
+11:32:44 AM: Downloading: 163 http://dsathemes.com/html/kolo/normal_register_form/js/Popover%20requires%20tooltip.js
+11:32:44 AM: Count: 206  ToDo: 41
+11:32:44 AM: Downloading: 164 http://dsathemes.com/html/kolo/normal_register_form/js/bs.tab
+11:32:44 AM: Count: 206  ToDo: 41
+11:32:44 AM: Downloading: 165 http://dsathemes.com/html/kolo/normal_register_form/js/hide.bs.tab
+11:32:44 AM: Count: 206  ToDo: 41
+11:32:45 AM: Done: 165 http://dsathemes.com/html/kolo/normal_register_form/js/hide.bs.tab Failed
+11:32:45 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/hide.bs.tab
+11:32:45 AM: 404: Not Found
+11:32:45 AM: LastError: 0 No Error
+11:32:45 AM: Done: 164 http://dsathemes.com/html/kolo/normal_register_form/js/bs.tab Failed
+11:32:45 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/bs.tab
+11:32:45 AM: 404: Not Found
+11:32:45 AM: LastError: 0 No Error
+11:32:45 AM: Done: 163 http://dsathemes.com/html/kolo/normal_register_form/js/Popover%20requires%20tooltip.js Failed
+11:32:45 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/Popover%20requires%20tooltip.js
+11:32:45 AM: 404: Not Found
+11:32:45 AM: LastError: 0 No Error
+11:32:45 AM: Downloading: 166 http://dsathemes.com/html/kolo/normal_register_form/js/show.bs.tab
+11:32:45 AM: Count: 206  ToDo: 38
+11:32:45 AM: Downloading: 167 http://dsathemes.com/html/kolo/normal_register_form/js/hidden.bs.tab
+11:32:45 AM: Count: 206  ToDo: 38
+11:32:45 AM: Downloading: 168 http://dsathemes.com/html/kolo/normal_register_form/js/shown.bs.tab
+11:32:45 AM: Count: 206  ToDo: 38
+11:32:45 AM: Done: 157 http://dsathemes.com/html/kolo/normal_register_form/img/parallax_bg/call-to-action.png Success
+11:32:45 AM: Downloading: 169 http://dsathemes.com/html/kolo/normal_register_form/js/>%20.fade
+11:32:45 AM: Count: 206  ToDo: 37
+11:32:45 AM: Done: 166 http://dsathemes.com/html/kolo/normal_register_form/js/show.bs.tab Failed
+11:32:45 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/show.bs.tab
+11:32:45 AM: 404: Not Found
+11:32:45 AM: LastError: 0 No Error
+11:32:45 AM: Done: 167 http://dsathemes.com/html/kolo/normal_register_form/js/hidden.bs.tab Failed
+11:32:45 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/hidden.bs.tab
+11:32:45 AM: 404: Not Found
+11:32:45 AM: LastError: 0 No Error
+11:32:45 AM: Done: 168 http://dsathemes.com/html/kolo/normal_register_form/js/shown.bs.tab Failed
+11:32:45 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/shown.bs.tab
+11:32:45 AM: 404: Not Found
+11:32:45 AM: LastError: 0 No Error
+11:32:45 AM: Downloading: 173 http://dsathemes.com/html/kolo/normal_register_form/js/touchstart.owl%20mousedown.owl
+11:32:45 AM: Count: 206  ToDo: 34
+11:32:45 AM: Downloading: 174 http://dsathemes.com/html/kolo/normal_register_form/js/touchmove.owl%20mousemove.owl
+11:32:45 AM: Count: 206  ToDo: 34
+11:32:45 AM: Downloading: 175 http://dsathemes.com/html/kolo/normal_register_form/js/touchend.owl%20touchcancel.owl%20mouseup.owl
+11:32:45 AM: Count: 206  ToDo: 34
+11:32:46 AM: Done: 169 http://dsathemes.com/html/kolo/normal_register_form/js/>%20.fade Failed
+11:32:46 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/>%20.fade
+11:32:46 AM: 404: Not Found
+11:32:46 AM: LastError: 0 No Error
+11:32:46 AM: Downloading: 176 http://dsathemes.com/html/kolo/normal_register_form/js/touchstart.owl
+11:32:46 AM: Count: 206  ToDo: 33
+11:32:46 AM: Done: 173 http://dsathemes.com/html/kolo/normal_register_form/js/touchstart.owl%20mousedown.owl Failed
+11:32:46 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/touchstart.owl%20mousedown.owl
+11:32:46 AM: 404: Not Found
+11:32:46 AM: LastError: 0 No Error
+11:32:46 AM: Done: 175 http://dsathemes.com/html/kolo/normal_register_form/js/touchend.owl%20touchcancel.owl%20mouseup.owl Failed
+11:32:46 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/touchend.owl%20touchcancel.owl%20mouseup.owl
+11:32:46 AM: 404: Not Found
+11:32:46 AM: LastError: 0 No Error
+11:32:46 AM: Done: 174 http://dsathemes.com/html/kolo/normal_register_form/js/touchmove.owl%20mousemove.owl Failed
+11:32:46 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/touchmove.owl%20mousemove.owl
+11:32:46 AM: 404: Not Found
+11:32:46 AM: LastError: 0 No Error
+11:32:46 AM: Downloading: 177 http://dsathemes.com/html/kolo/normal_register_form/js/touchmove.owl
+11:32:46 AM: Count: 206  ToDo: 30
+11:32:46 AM: Downloading: 178 http://dsathemes.com/html/kolo/normal_register_form/js/touchend.owl%20touchcancel.owl
+11:32:46 AM: Count: 206  ToDo: 30
+11:32:46 AM: Downloading: 179 http://dsathemes.com/html/kolo/normal_register_form/js/mousedown.owl
+11:32:46 AM: Count: 206  ToDo: 30
+11:32:46 AM: Done: 176 http://dsathemes.com/html/kolo/normal_register_form/js/touchstart.owl Failed
+11:32:46 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/touchstart.owl
+11:32:46 AM: 404: Not Found
+11:32:46 AM: LastError: 0 No Error
+11:32:46 AM: Downloading: 180 http://dsathemes.com/html/kolo/normal_register_form/js/mousemove.owl
+11:32:46 AM: Count: 206  ToDo: 29
+11:32:46 AM: Done: 177 http://dsathemes.com/html/kolo/normal_register_form/js/touchmove.owl Failed
+11:32:46 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/touchmove.owl
+11:32:46 AM: 404: Not Found
+11:32:46 AM: LastError: 0 No Error
+11:32:46 AM: Done: 178 http://dsathemes.com/html/kolo/normal_register_form/js/touchend.owl%20touchcancel.owl Failed
+11:32:46 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/touchend.owl%20touchcancel.owl
+11:32:46 AM: 404: Not Found
+11:32:46 AM: LastError: 0 No Error
+11:32:46 AM: Done: 179 http://dsathemes.com/html/kolo/normal_register_form/js/mousedown.owl Failed
+11:32:46 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/mousedown.owl
+11:32:46 AM: 404: Not Found
+11:32:46 AM: LastError: 0 No Error
+11:32:46 AM: Downloading: 181 http://dsathemes.com/html/kolo/normal_register_form/js/mouseup.owl
+11:32:46 AM: Count: 206  ToDo: 26
+11:32:46 AM: Downloading: 182 http://dsathemes.com/html/kolo/normal_register_form/js/dragstart.owl
+11:32:46 AM: Count: 206  ToDo: 26
+11:32:46 AM: Downloading: 183 http://dsathemes.com/html/kolo/normal_register_form/js/owl.next
+11:32:46 AM: Count: 206  ToDo: 26
+11:32:47 AM: Done: 180 http://dsathemes.com/html/kolo/normal_register_form/js/mousemove.owl Failed
+11:32:47 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/mousemove.owl
+11:32:47 AM: 404: Not Found
+11:32:47 AM: LastError: 0 No Error
+11:32:47 AM: Downloading: 184 http://dsathemes.com/html/kolo/normal_register_form/js/owl.prev
+11:32:47 AM: Count: 206  ToDo: 25
+11:32:47 AM: Done: 181 http://dsathemes.com/html/kolo/normal_register_form/js/mouseup.owl Failed
+11:32:47 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/mouseup.owl
+11:32:47 AM: 404: Not Found
+11:32:47 AM: LastError: 0 No Error
+11:32:47 AM: Downloading: 185 http://dsathemes.com/html/kolo/normal_register_form/js/owl.play
+11:32:47 AM: Count: 206  ToDo: 24
+11:32:47 AM: Done: 182 http://dsathemes.com/html/kolo/normal_register_form/js/dragstart.owl Failed
+11:32:47 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/dragstart.owl
+11:32:47 AM: 404: Not Found
+11:32:47 AM: LastError: 0 No Error
+11:32:47 AM: Done: 183 http://dsathemes.com/html/kolo/normal_register_form/js/owl.next Failed
+11:32:47 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/owl.next
+11:32:47 AM: 404: Not Found
+11:32:47 AM: LastError: 0 No Error
+11:32:47 AM: Downloading: 186 http://dsathemes.com/html/kolo/normal_register_form/js/owl.stop
+11:32:47 AM: Count: 206  ToDo: 22
+11:32:47 AM: Downloading: 187 http://dsathemes.com/html/kolo/normal_register_form/js/owl.goTo
+11:32:47 AM: Count: 206  ToDo: 22
+11:32:47 AM: Done: 184 http://dsathemes.com/html/kolo/normal_register_form/js/owl.prev Failed
+11:32:47 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/owl.prev
+11:32:47 AM: 404: Not Found
+11:32:47 AM: LastError: 0 No Error
+11:32:47 AM: Downloading: 188 http://dsathemes.com/html/kolo/normal_register_form/js/).css(
+11:32:47 AM: Count: 206  ToDo: 21
+11:32:47 AM: Done: 185 http://dsathemes.com/html/kolo/normal_register_form/js/owl.play Failed
+11:32:47 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/owl.play
+11:32:47 AM: 404: Not Found
+11:32:47 AM: LastError: 0 No Error
+11:32:47 AM: Done: 187 http://dsathemes.com/html/kolo/normal_register_form/js/owl.goTo Failed
+11:32:47 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/owl.goTo
+11:32:47 AM: 404: Not Found
+11:32:47 AM: LastError: 0 No Error
+11:32:47 AM: Downloading: 189 http://dsathemes.com/html/kolo/normal_register_form/js/).html(facebook_like_link);
+}
+
+//%20Fade%20the%20content%20in
+if($ppt.is(
+11:32:47 AM: Count: 206  ToDo: 19
+11:32:47 AM: Downloading: 190 http://dsathemes.com/html/kolo/normal_register_form/js/))%20$ppt.css(
+11:32:47 AM: Count: 206  ToDo: 19
+11:32:47 AM: Done: 186 http://dsathemes.com/html/kolo/normal_register_form/js/owl.stop Failed
+11:32:47 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/owl.stop
+11:32:48 AM: 404: Not Found
+11:32:48 AM: LastError: 0 No Error
+11:32:48 AM: Downloading: 192 http://dsathemes.com/html/kolo/normal_register_form/js/);
+$pp_details.width(width);
+detailsHeight%20=%20parseFloat($pp_details.css(
+11:32:48 AM: Count: 206  ToDo: 18
+11:32:48 AM: Done: 188 http://dsathemes.com/html/kolo/normal_register_form/js/).css( Failed
+11:32:48 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/).css(
+11:32:48 AM: 404: Not Found
+11:32:48 AM: LastError: 0 No Error
+11:32:48 AM: Downloading: 193 http://dsathemes.com/html/kolo/normal_register_form/js/))%20+%20parseFloat($pp_details.css(
+11:32:48 AM: Count: 206  ToDo: 17
+11:32:48 AM: Done: 189 http://dsathemes.com/html/kolo/normal_register_form/js/).html(facebook_like_link);
+}
+
+//%20Fade%20the%20content%20in
+if($ppt.is( Success
+11:32:48 AM: Done: 190 http://dsathemes.com/html/kolo/normal_register_form/js/))%20$ppt.css( Failed
+11:32:48 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/))%20$ppt.css(
+11:32:48 AM: 404: Not Found
+11:32:48 AM: LastError: 0 No Error
+11:32:48 AM: Done: 192 http://dsathemes.com/html/kolo/normal_register_form/js/);
+$pp_details.width(width);
+detailsHeight%20=%20parseFloat($pp_details.css( Success
+11:32:48 AM: Downloading: 194 http://dsathemes.com/html/kolo/normal_register_form/js/.ppt
+11:32:48 AM: Count: 206  ToDo: 14
+11:32:48 AM: Downloading: 195 http://dsathemes.com/html/kolo/normal_register_form/js/).show();
+};
+
+galleryWidth%20=%20itemsPerPage%20*%20itemWidth;
+fullGalleryWidth%20=%20pp_images.length%20*%20itemWidth;
+
+//%20Set%20the%20proper%20width%20to%20the%20gallery%20items
+$pp_gallery
+.css(
+11:32:48 AM: Count: 206  ToDo: 14
+11:32:48 AM: Downloading: 196 http://dsathemes.com/html/kolo/normal_register_form/js/.sort
+11:32:48 AM: Count: 206  ToDo: 14
+11:32:48 AM: Done: 193 http://dsathemes.com/html/kolo/normal_register_form/js/))%20+%20parseFloat($pp_details.css( Failed
+11:32:48 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/))%20+%20parseFloat($pp_details.css(
+11:32:48 AM: 404: Not Found
+11:32:48 AM: LastError: 0 No Error
+11:32:48 AM: Downloading: 197 http://dsathemes.com/html/kolo/normal_register_form/js/cubic-bezier(0.25,%200.46,%200.45,%200.94)
+11:32:48 AM: Count: 206  ToDo: 13
+11:32:49 AM: Done: 195 http://dsathemes.com/html/kolo/normal_register_form/js/).show();
+};
+
+galleryWidth%20=%20itemsPerPage%20*%20itemWidth;
+fullGalleryWidth%20=%20pp_images.length%20*%20itemWidth;
+
+//%20Set%20the%20proper%20width%20to%20the%20gallery%20items
+$pp_gallery
+.css( Success
+11:32:49 AM: Done: 194 http://dsathemes.com/html/kolo/normal_register_form/js/.ppt Failed
+11:32:49 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/.ppt
+11:32:49 AM: 404: Not Found
+11:32:49 AM: LastError: 0 No Error
+11:32:49 AM: Done: 196 http://dsathemes.com/html/kolo/normal_register_form/js/.sort Failed
+11:32:49 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/.sort
+11:32:49 AM: 404: Not Found
+11:32:49 AM: LastError: 0 No Error
+11:32:49 AM: Done: 197 http://dsathemes.com/html/kolo/normal_register_form/js/cubic-bezier(0.25,%200.46,%200.45,%200.94) Failed
+11:32:49 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/cubic-bezier(0.25,%200.46,%200.45,%200.94)
+11:32:49 AM: 404: Not Found
+11:32:49 AM: LastError: 0 No Error
+11:32:49 AM: Downloading: 198 http://dsathemes.com/html/kolo/normal_register_form/js/cubic-bezier(0.175,%200.885,%200.320,%201.275)
+11:32:49 AM: Count: 206  ToDo: 9
+11:32:49 AM: Downloading: 199 http://dsathemes.com/html/kolo/normal_register_form/js/cubic-bezier(0.6,%20-0.28,%200.735,%200.045)
+11:32:49 AM: Count: 206  ToDo: 9
+11:32:49 AM: Downloading: 200 http://dsathemes.com/html/kolo/normal_register_form/js/cubic-bezier(0.6,%200.28,%200.735,%200.045)
+11:32:49 AM: Count: 206  ToDo: 9
+11:32:49 AM: Downloading: 201 http://dsathemes.com/html/kolo/normal_register_form/js/scale(.01)
+11:32:49 AM: Count: 206  ToDo: 9
+11:32:50 AM: Done: 201 http://dsathemes.com/html/kolo/normal_register_form/js/scale(.01) Failed
+11:32:50 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/scale(.01)
+11:32:50 AM: 404: Not Found
+11:32:50 AM: LastError: 0 No Error
+11:32:50 AM: Done: 199 http://dsathemes.com/html/kolo/normal_register_form/js/cubic-bezier(0.6,%20-0.28,%200.735,%200.045) Failed
+11:32:50 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/cubic-bezier(0.6,%20-0.28,%200.735,%200.045)
+11:32:50 AM: 404: Not Found
+11:32:50 AM: LastError: 0 No Error
+11:32:50 AM: Done: 198 http://dsathemes.com/html/kolo/normal_register_form/js/cubic-bezier(0.175,%200.885,%200.320,%201.275) Failed
+11:32:50 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/cubic-bezier(0.175,%200.885,%200.320,%201.275)
+11:32:50 AM: 404: Not Found
+11:32:50 AM: LastError: 0 No Error
+11:32:50 AM: Done: 200 http://dsathemes.com/html/kolo/normal_register_form/js/cubic-bezier(0.6,%200.28,%200.735,%200.045) Failed
+11:32:50 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/cubic-bezier(0.6,%200.28,%200.735,%200.045)
+11:32:50 AM: 404: Not Found
+11:32:50 AM: LastError: 0 No Error
+11:32:50 AM: Downloading: 202 http://dsathemes.com/html/kolo/normal_register_form/js/){%20
+$cont.addClass(config.listClass);
+$cont.removeClass(config.gridClass);
+$pre.css(
+11:32:50 AM: Count: 206  ToDo: 5
+11:32:50 AM: Downloading: 203 http://dsathemes.com/html/kolo/normal_register_form/js/,config.targetDisplayList);
+}%20else%20{
+$cont.addClass(config.gridClass);
+$cont.removeClass(config.listClass);
+$pre.css(
+11:32:50 AM: Count: 206  ToDo: 5
+11:32:50 AM: Downloading: 204 http://dsathemes.com/html/kolo/normal_register_form/js/).on(
+11:32:50 AM: Count: 206  ToDo: 5
+11:32:50 AM: Downloading: 205 http://dsathemes.com/html/kolo/normal_register_form/js/,%20//%20Text%20for%20element
+scrollImg:%20false,%20//%20Set%20true%20to%20use%20image
+activeOverlay:%20false%20//%20Set%20CSS%20color%20to%20display%20scrollUp%20active%20point,%20e.g%20
+11:32:50 AM: Count: 206  ToDo: 5
+11:32:50 AM: Done: 202 http://dsathemes.com/html/kolo/normal_register_form/js/){%20
+$cont.addClass(config.listClass);
+$cont.removeClass(config.gridClass);
+$pre.css( Success
+11:32:50 AM: Done: 203 http://dsathemes.com/html/kolo/normal_register_form/js/,config.targetDisplayList);
+}%20else%20{
+$cont.addClass(config.gridClass);
+$cont.removeClass(config.listClass);
+$pre.css( Success
+11:32:50 AM: Done: 204 http://dsathemes.com/html/kolo/normal_register_form/js/).on( Failed
+11:32:50 AM: : Fail http://dsathemes.com/html/kolo/normal_register_form/js/).on(
+11:32:50 AM: 404: Not Found
+11:32:50 AM: LastError: 0 No Error
+11:32:50 AM: Done: 205 http://dsathemes.com/html/kolo/normal_register_form/js/,%20//%20Text%20for%20element
+scrollImg:%20false,%20//%20Set%20true%20to%20use%20image
+activeOverlay:%20false%20//%20Set%20CSS%20color%20to%20display%20scrollUp%20active%20point,%20e.g%20 Success
+11:32:51 AM: Done: 153 http://dsathemes.com/html/kolo/normal_register_form/img/parallax_bg/newsletter.png Success
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 154
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 155
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 156
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 157
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 158
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 159
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 160
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 161
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 162
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 163
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 164
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 165
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 166
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 167
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 168
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 169
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 170
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 171
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 172
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 173
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 174
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 175
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 176
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 177
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 178
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 179
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 180
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 181
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 182
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 183
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 184
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 185
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 186
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 187
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 188
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 189
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 190
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 191
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 192
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 193
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 194
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 195
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 196
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 197
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 198
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 199
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 200
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 201
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 202
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 203
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 204
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 205
+11:32:51 AM: Count: 206
+11:32:51 AM: HTML: 206
+11:32:51 AM: EndStatus = CompleteWorking
+11:32:51 AM: AfterDownload - renaming files 11/06/2016 11:32:51 AM
+11:32:51 AM: AfterDownload - Replacing links 11/06/2016 11:32:51 AM
+11:32:53 AM: AfterDownload - Creating reports 11/06/2016 11:32:53 AM
+11:32:53 AM: ParseDone - Completed 11/06/2016 11:32:53 AM
+11:32:53 AM: Write file list: e:\kheprat-work\elra2ed\lp\2\WebStripper\FileList.cfg
+11:32:53 AM: Write link list: e:\kheprat-work\elra2ed\lp\2\WebStripper\LinkList.dat
